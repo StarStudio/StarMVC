@@ -8,4 +8,4 @@ You can see a simple SPA using StarMVC in the example directory, and the core of
 
 At now there is only two methods that you can use, you can find the usage in the example code.
 
-The document of our project will coming soon!
+The document of our project is [here](https://github.com/StarStudio/StarMVC/wiki)!
