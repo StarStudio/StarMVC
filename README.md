@@ -9,3 +9,9 @@ You can see a simple SPA using StarMVC in the example directory, and the core of
 At now there is only two methods that you can use, you can find the usage in the example code.
 
 The document of our project is [here](https://github.com/StarStudio/StarMVC/wiki)!
+
+## References
+
+ - [JavaScript MVC Style Framework in Less Than 100 Lines of Code](http://www.codeproject.com/Articles/869488/JavaScript-MVC-Style-Framework-in-Less-Than-Lines)
+
+ - [JavaScript template engine in just 20 lines](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
